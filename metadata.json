@@ -1,0 +1,6 @@
+{
+  "name": "재가요양보호사 지원서 접수",
+  "description": "요양보호사-요양복지센터 실시간 조건 연계 매칭 및 인사 지원 분석 대시보드 (MVP)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
